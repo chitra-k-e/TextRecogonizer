@@ -1,5 +1,3 @@
-
-!pip install pytesseract
 from PIL import Image, ImageDraw
 import pytesseract
 import streamlit as st
