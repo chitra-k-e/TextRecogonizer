@@ -1,7 +1,0 @@
-easyocr
-pillow
-numpy
-streamlit
-torch
-torchvision
-opencv-python-headless
