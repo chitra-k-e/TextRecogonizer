@@ -2,3 +2,5 @@ streamlit
 Pillow
 numpy
 easyocr
+torch
+opencv-python-headless
